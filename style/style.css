@@ -47,6 +47,10 @@
         font-family: "Fira Sans", serif;
         font-style: normal;
 }
+.btn:hover{
+  background-color: #3bd5b1;
+    color: rgb(38, 39, 41); 
+}
 .img{
   width: 475px;
   height: 400px;
@@ -77,6 +81,10 @@
   font-family: "Fira Sans", serif;
   font-style: normal;
 }
+.btn2:hover{
+  background-color: #006A50;
+    color: white; 
+}
 .btn3{
   background-color: #09A15C;
   border-radius: 8px;
@@ -88,6 +96,10 @@
   font-family: "Fira Sans", serif;
   font-style: normal;
 }
+.btn3:hover{
+  background-color: #006A50;
+    color: white; 
+}
 .btn4{
   background-color: #FFC239;
   border-radius: 8px;
@@ -98,6 +110,10 @@
   font-weight: 600;
   font-family: "Fira Sans", serif;
   font-style: normal;
+}
+.btn4:hover{
+  background-color: #006A50;
+    color: white; 
 }
 .topic{
   border-radius: 16px;
@@ -150,7 +166,7 @@ background-repeat: no-repeat;
 .image3{
   border-radius: 24px;
 }
-.btn5{background-color: #006A50;
+.btn5 {background-color: #006A50;
   border-radius: 8px;
   color: white;
   padding: 13px 26px;
@@ -159,6 +175,10 @@ background-repeat: no-repeat;
   font-weight: bold;
   font-family: "Fira Sans", serif;
   font-style: normal;
+}
+.btn5:hover{
+  background-color: #2147a7;
+    color: white; 
 }
 
 .time { display: inline-block; padding-right: 10px;}
@@ -180,9 +200,14 @@ text-align: center;
 .d1{
   padding: 40px 40px 40px 40px;
   border-radius: 16px;
-  background-color: #FFFFFF;
-  
+  background-color: #f7fafa;
+  cursor: pointer;
 }
+  .d1:hover{
+    background-color: #006A50;
+      color: white; 
+  }
+
 .amount
 { width: 1000px;
   height: 60px;
@@ -205,6 +230,10 @@ text-align: center;
     font-family: "Fira Sans", serif;
     font-style: normal;
   
+  }
+  .s:hover{
+    background-color: #1228b7;
+      color: white; 
   }
   .ent{
     text-align: center;
@@ -238,6 +267,15 @@ text-align: center;
     font-weight: bold;
     font-family: "Fira Sans", serif;
     font-style: normal;
+  }
+  .btn6:hover{
+    background-color: #270da4;
+      color: white; 
+  }
+  .p{
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 100px;
   }
 
   
